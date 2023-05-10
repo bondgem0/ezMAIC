@@ -1,2 +1,5 @@
 # ezMAIC
-custom package for matching-adjusted indirect comparison
+A customized R package for matching-adjusted indirect comparison
+
+# ZZZ
+
